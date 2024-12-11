@@ -22,7 +22,8 @@ npm install
 ```
 
 ##### Configuration
-Copy the .env.example to a new file and name it .env (place in the same folder)
+Copy the .env.example to a new file and name it .env (place in the same folder).
+
 The default settings specified should have everything work out of the box, but if you need to change anything, the settings to change are pretty self-explanatory.
 
 ##### Running
@@ -69,6 +70,7 @@ python -m pip install -r requirements.txt
 ```
 
 Copy the .env.example to a new file and name it .env (place in the same folder).
+
 Variables you'll likely need to change to match your system settings are:
 
 ```
