@@ -11,28 +11,28 @@ cd app
 ```
 
 ### 1. Frontend
-##### Prerequisites
+#### Prerequisites
 - Node.js v20.0+
 
-##### Setup
+#### Setup
 Install dependencies
 ```bash
 cd beatcode-client
 npm install
 ```
 
-##### Configuration
+#### Configuration
 Copy the .env.example to a new file and name it .env (place in the same folder).
 
 The default settings specified should have everything work out of the box, but if you need to change anything, the settings to change are pretty self-explanatory.
 
-##### Running
+#### Running
 ```
 npm build
 npm run preview
 ```
 
-##### Testing
+#### Testing
 **Unit Tests**
 ```bash
 npm test
@@ -46,12 +46,12 @@ npm run test:e2e
 
 
 ### 2. Backend
-##### Prerequisites
+#### Prerequisites
 - Python v3.11
 - PostgreSQL database installed and running
 - Docker Engine installed and running
 
-##### Setup
+#### Setup
 Navigate into the folder
 ```bash
 cd beatcode-client
@@ -88,13 +88,13 @@ cd app
 python -m db.init --drop --droptest
 ```
 
-##### Running
+#### Running
 Start the server
 ```bash
 uvicorn main:app
 ```
 
-##### Testing
+#### Testing
 Please set the .env variable `TESTING` to `True` before testing.
 **Unit Test**
 ```bash
