@@ -1,6 +1,9 @@
 # BeatCode
 BeatCode is a platform providing head-to-head LeetCode-like coding battles.
 
+## Demo
+[Video](https://youtu.be/jXLIyWCukSY)
+
 ## Installation
 Below are the commands to get the server up and running, for specific details please visit the README.md of each individual repo.
 
