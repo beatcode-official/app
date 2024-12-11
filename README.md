@@ -31,7 +31,7 @@ The default settings specified should have everything work out of the box, but i
 
 #### Running
 ```
-npm build
+npm run build
 npm run preview
 ```
 
