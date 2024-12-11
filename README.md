@@ -57,7 +57,7 @@ npm run test:e2e
 #### Setup
 Navigate into the folder
 ```bash
-cd beatcode-client
+cd beatcode-server
 ```
 
 [OPTIONAL] Create a new Python virtual environment
