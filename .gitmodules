@@ -1,0 +1,6 @@
+[submodule "beatcode-client"]
+	path = beatcode-client
+	url = https://github.com/beatcode-official/beatcode-client.git
+[submodule "beatcode-server"]
+	path = beatcode-server
+	url = https://github.com/beatcode-official/beatcode-server.git
