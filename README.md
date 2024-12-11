@@ -109,3 +109,6 @@ python tests/integration/auth_test.py # Test authentication endpoints
 python tests/integration/game_test.py # Test game endpoints
 python tests/integration/room_test.py # Test room endpoints
 ```
+
+## Other Notes
+- We used for GPT-4o for test case generation and runtime analysis.
