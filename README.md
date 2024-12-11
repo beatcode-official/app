@@ -111,4 +111,4 @@ python tests/integration/room_test.py # Test room endpoints
 ```
 
 ## Other Notes
-- We used for GPT-4o for test case generation and runtime analysis.
+- We used GPT-4o for test case generation and runtime analysis.
