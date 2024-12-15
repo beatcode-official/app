@@ -7,8 +7,9 @@
 - Reviewed PRs for other teammates and fixed bugs.
 
 ## Minh Vu
-- Worked on backend's OAuth authentication flow, integrated FastAPI backend with PostgreSQL database.
-- Designed E2E Playwright tests for the frontend.
+- Worked on backend's OAuth authentication flow (user login and register). Created user login session management and ensure robust password encryption for each user profile.
+- Set up PostgreSQL database to manange each user creation, user register/login session, and construct initial (based) endpoints using FastAPI for further developement.
+- Leveraging E2E tests using PlayWright and JavaScript. Built the testing pipeline from register and login page to main, and to player duel battle wait room. Focused on each front-end details (Error logs, appearance of crucial components of webpage, etc) for smooth user interaction
 
 ## Donald Winkelman
 - Setup Svelte's styling and implemented frontend's authentication (register and log in) and profile pages.
